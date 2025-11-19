@@ -2,7 +2,7 @@
 /**
  * Configuration file for CC Checker
  * 
- * @author OshekharO
+ * @Xeidzc
  */
 
 // Card validation settings
